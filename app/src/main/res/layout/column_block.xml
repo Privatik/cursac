@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="@dimen/cell_width"
+    android:layout_height="@dimen/column_header_height"
+    android:background="@color/black">
+
+    <TextView
+        android:id="@+id/numberColumn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/white"
+        android:gravity="center"/>
+
+</LinearLayout>

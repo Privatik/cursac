@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="@dimen/cell_width"
+    android:layout_height="@dimen/cell_heigt"
+    android:background="@color/colorAccent">
+
+    <TextView
+        android:id="@+id/trans"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/indent_from_border_cell"
+        android:layout_marginLeft="5dp"
+        android:textSize="13sp"
+        android:gravity="center|start"/>
+
+
+</RelativeLayout>

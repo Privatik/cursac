@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Менделеев отдыхает</string>
+    <string name="title_activity_info">InforActivity</string>
+    <string name="action_settings">Settings</string>
 </resources>
